@@ -1,4 +1,4 @@
-<blockquote>
+<pre><code>
       .MMMMMMMMM      :MMMM;                                                                                                                                                    MMMM;  
       MMMM   :MMMM;                                                                                               .MMMO                                                                
      0MMM.    MMMM                                                                                                MMMO                                                                 
@@ -10,7 +10,7 @@
                                  0MMX                                                                                                                                                  
                                dMMMN                                                                                                                                                   
                        MMMMMMMMM 
-</blockquote>
+</code></pre>
 #FPGA模块实现与对比
 
 尝试使用Verilog手写一些常用FPGA模块，建立完善的测试方法，并与对应的IPcore在资源、关键路径等方面进行对比。                         
